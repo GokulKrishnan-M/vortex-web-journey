@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "portfolio-demo-226fe",
+    "gokul-krishnan-m": "portfolio-demo-226fe"
+  },
+  "targets": {
+    "portfolio-demo-226fe": {
+      "hosting": {
+        "gokulkrishnan-m": [
+          "gokulkrishnan-m"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
